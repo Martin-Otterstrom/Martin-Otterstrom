@@ -1,7 +1,15 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100"/>
+</div>
+
+
+
+
+
 ### Hi there 👋
 
-<!--
-**Martin-Otterstrom/Martin-Otterstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
