@@ -22,15 +22,21 @@
   <img src="https://media.giphy.com/media/kspVl6FzbdblOMKRmM/giphy.gif" width="600" height="300"/>
 </div>
 
+---
+
+### :man_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sweden.<img src="https://media.giphy.com/media/bnfQsMX2PEZwZKdAU0/giphy.gif" width="30">
+
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning Javascript
+- 📚 knowledge in: html, css, javascript and python 
+- 🙋‍♂️ he/him 
+- 📫 reach me (ignore , ): martin, ott, @, gmail, .com
+
 - ⚡ Fun fact: ...
+
 -->
